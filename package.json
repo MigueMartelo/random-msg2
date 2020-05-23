@@ -18,7 +18,11 @@
     "url": "git+https://github.com/MigueMartelo/random-msg2.git"
   },
   "bin": {
-    "random-msg2": "./bin/global.js"
+    "random-msg2": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/MigueMartelo/random-msg2/issues"
+  },
+  "homepage": "https://github.com/MigueMartelo/random-msg2#readme"
 }
