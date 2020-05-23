@@ -1,7 +1,7 @@
 {
   "name": "random-message2",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "I don't know what to write for the first commit.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,10 @@
   ],
   "author": "Migue Martelo <miguemartelo1031@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigueMartelo/random-msg2.git"
+  },
   "bin": {
     "random-msg2": "./bin/global.js"
   },
